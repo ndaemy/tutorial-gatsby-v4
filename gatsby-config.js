@@ -1,7 +1,10 @@
+/** @type {import('gatsby').GatsbyConfig} */
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "Gatsby Tutorial v4",
+      title: `new`,
+      siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
-};
+  plugins: [
+
+  ]
+}
